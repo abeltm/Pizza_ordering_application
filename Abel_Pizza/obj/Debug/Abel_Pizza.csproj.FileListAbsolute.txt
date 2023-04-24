@@ -1,0 +1,23 @@
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.exe.config
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.exe
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.pdb
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.Form1.resources
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.Properties.Resources.resources
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.GenerateResource.cache
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.exe
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.pdb
+C:\Users\Sundas PC\source\repos\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csprojAssemblyReference.cache
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.exe.config
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.exe
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\bin\Debug\Abel_Pizza.pdb
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.AssemblyReference.cache
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.Form1.resources
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.Properties.Resources.resources
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.GenerateResource.cache
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.exe
+C:\Users\abelt\Desktop\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.pdb
+D:\CLASS\win22\Prog 2\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.exe
+D:\CLASS\win22\Prog 2\Abel_Pizza\Abel_Pizza\obj\Debug\Abel_Pizza.pdb
